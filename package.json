@@ -1,0 +1,40 @@
+{
+  "name": "webpack5-vue2-boilerplate",
+  "version": "1.0.0",
+  "description": "webpack5搭建Vue2开发环境",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "css-loader": "^6.7.2",
+    "eslint": "^8.27.0",
+    "eslint-plugin-vue": "^9.7.0",
+    "html-webpack-plugin": "^5.5.0",
+    "lodash": "^4.17.21",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "style-loader": "^3.3.1",
+    "vue": "^2.7.14",
+    "vue-loader": "^15.10.1",
+    "vue-template-compiler": "^2.7.14",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmu/webpack5-vue2-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmu/webpack5-vue2-boilerplate/issues"
+  },
+  "homepage": "https://github.com/acmu/webpack5-vue2-boilerplate#readme"
+}
